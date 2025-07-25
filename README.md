@@ -2,7 +2,7 @@
 
 **`Analista de Rede`**
 
-Eu me chamo Uelinton Queiroz dos Santos, tenho 39 anos e sou natural de Salvador - Bahia. pós-graduado do curso em Segurança de Rede na Faculdade Unopa, e com graduação em Redes de Computadores na Faculdade Unime. Tenho experiências na área de TI, em atendimento ao usuáio, com relação a abertura de chamados, tanto atendimento presencial e remoto, utilizando programas como Team Viewer, Andesk, Vpn e também utilizando a conexão de área de trabalho remota do próprio Windows.
+Eu me chamo Uelinton Queiroz dos Santos, tenho 39 anos e sou natural de Salvador - Bahia. Pós-graduado do curso em Segurança de Rede na Faculdade Unopa, e com graduação em Redes de Computadores na Faculdade Unime. Tenho experiências na área de TI, em atendimento ao usuáio, com relação a abertura de chamados, tanto atendimento presencial e remoto, utilizando programas como Team Viewer, Andesk, Vpn e também utilizando a conexão de área de trabalho remota do próprio Windows.
 
 Nas minhas experiências realizo backup dos arquivos dos usuários, instalando os programas e os equipamentos que será preciso, para agilizar as atividades dos usuários. Pois também tenho conhecimento em armação e organização em rakes, realizando cabeamento de rede, instalação e configuração em switch, roteadores, pontos de rede, impressoras, scanner, e cftv. Tenho um pequeno laboratório, para fazer os meus serviços de manutenção em equipamentos.
 
