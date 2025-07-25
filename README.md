@@ -40,7 +40,7 @@ Montei um servidor de teste com sistema proxmox, para aprimorar o meu conhecimen
 </p>
 
 ---
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagem de Programação
 
 <img 
     align="left" 
