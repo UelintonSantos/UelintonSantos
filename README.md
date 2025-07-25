@@ -2,11 +2,11 @@
 
 **`Analista de Rede`**
 
-Me chamo Uelinton Queiroz dos Santos, tenho 39 anos e sou natural de Salvador - Bahia. pós-graduado do curso em Segurança de Rede na Faculdade Unopa, e com graduação em Redes de Computadores na Faculdade Unime. Tenho experiências na área de TI, em atendimento ao usuáio, com relação a abertura de chamados, tanto atendimento presencial e remoto, utilizando programas como Team Viewer, Andesk, Vpn e também utilizando a conexão de área de trabalho remota do próprio Windows.
+Eu me chamo Uelinton Queiroz dos Santos, tenho 39 anos e sou natural de Salvador - Bahia. pós-graduado do curso em Segurança de Rede na Faculdade Unopa, e com graduação em Redes de Computadores na Faculdade Unime. Tenho experiências na área de TI, em atendimento ao usuáio, com relação a abertura de chamados, tanto atendimento presencial e remoto, utilizando programas como Team Viewer, Andesk, Vpn e também utilizando a conexão de área de trabalho remota do próprio Windows.
 
 Nas minhas experiências realizo backup dos arquivos dos usuários, instalando os programas e os equipamentos que será preciso, para agilizar as atividades dos usuários. Pois também tenho conhecimento em armação e organização em rakes, realizando cabeamento de rede, instalação e configuração em switch, roteadores, pontos de rede, impressoras, scanner, e cftv. Tenho um pequeno laboratório, para fazer os meus serviços de manutenção em equipamentos.
 
-Também foi criado um servidor de teste com sistema proxmox, para aprimorar o meu conhecimento na criação de maquina virtual, para estudos utilizando Windows server2012, Linux, zabbix, grafana, e outros, tenho alguns projetos pessoais no GitHub. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[TI.PLEASE(https://www.youtube.com/channel/UC6tMlW_MTknvrZybAMq9TYg)", onde passo ticas relacionadas a técnologia, e também através do Instagram, com o perfil chamado "[Uelintonq](https://www.instagram.com/uelintonq/)".
+Montei um servidor de teste com sistema proxmox, para aprimorar o meu conhecimento na criação de maquina virtual, para estudos utilizando Windows server2016, Linux, zabbix, grafana, e outros, tenho alguns projetos pessoais no GitHub. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[TI.PLEASE(https://www.youtube.com/channel/UC6tMlW_MTknvrZybAMq9TYg)", onde passo ticas relacionadas a técnologia, e também através do Instagram, com o perfil chamado "[Uelintonq](https://www.instagram.com/uelintonq/)".
 
 <p align="left">
     <a href="https://www.youtube.com/channel/UC6tMlW_MTknvrZybAMq9TYg">
