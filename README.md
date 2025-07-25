@@ -66,14 +66,6 @@ Montei um servidor de teste com sistema proxmox, para aprimorar o meu conhecimen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 <img 
     align="left" 
     alt="Python" 
@@ -81,6 +73,19 @@ Montei um servidor de teste com sistema proxmox, para aprimorar o meu conhecimen
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<br/>
+<br/>
+
+---
+### 🤖 Controle de Versão
+<img
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
 <br/>
@@ -134,6 +139,13 @@ Montei um servidor de teste com sistema proxmox, para aprimorar o meu conhecimen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
+
+<br/>
+<br/>
+
+---
+### 🤖 Ferramentas de pentest
+
 <img 
     align="left" 
     alt="KALI LINUX"
@@ -141,7 +153,8 @@ Montei um servidor de teste com sistema proxmox, para aprimorar o meu conhecimen
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"
-/>  
+/> 
+
 <br/>
 <br/>
 
